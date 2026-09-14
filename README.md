@@ -19,6 +19,7 @@ B.Com student (SGPA 9.27) · CMA Foundation qualifier · Aspiring finance & mana
 - 💼 HR & Market Research Intern at BIIOS Startup Consulting LLP — market research, go-to-market analysis, and website audits for client brands
 - 🧭 Placement Coordinator, managing drives for 100+ students across 30+ companies
 - 🎯 Seeking a management role in finance after graduation in 2027
+- 🧑‍💻 Honestly, I only know how to vibe code — but I like learning new things, and right now coding is the new thing I'm getting my hands on
 
 ### What I Work With
 
