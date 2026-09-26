@@ -7,11 +7,11 @@
 <circle cx="70" cy="21" r="6" fill="#27c93f"/>
 <text x="440" y="26" text-anchor="middle" fill="#656d76" font-size="13">profile.sh --live</text>
 <text class="l" style="animation-delay:.3s" x="28" y="80" fill="#1a7f37">$ <tspan fill="#1f2328">./profile.sh --live</tspan></text>
-<text class="l" style="animation-delay:1.0s" x="28" y="118" fill="#656d76">name<tspan x="118" fill="#6e56cf">: </tspan><tspan fill="#1f2328">Swayam Agrawal</tspan></text>
-<text class="l" style="animation-delay:1.4s" x="28" y="148" fill="#656d76">role<tspan x="118" fill="#6e56cf">: </tspan><tspan fill="#1f2328">B.Com student · finance &amp; management</tspan></text>
-<text class="l" style="animation-delay:1.7s" x="28" y="178" fill="#656d76">college<tspan x="118" fill="#6e56cf">: </tspan><tspan fill="#1f2328">Indira College of Commerce and Science, Pune</tspan></text>
-<text class="l" style="animation-delay:2.1s" x="28" y="208" fill="#656d76">cma<tspan x="118" fill="#6e56cf">: </tspan><tspan fill="#1f2328">Foundation qualified · 276/400 · all 4 exemptions</tspan></text>
-<text class="l" style="animation-delay:2.4s" x="28" y="238" fill="#656d76">sgpa<tspan x="118" fill="#6e56cf">: </tspan><tspan fill="#1f2328">9.27</tspan></text>
-<text class="l" style="animation-delay:2.8s" x="28" y="268" fill="#656d76">status<tspan x="118" fill="#6e56cf">: </tspan><tspan fill="#1f2328">learning to code, vibe first</tspan></text>
-<text class="l" style="animation-delay:3.1s" x="28" y="302" fill="#1a7f37">$ <tspan class="c" fill="#6e56cf">█</tspan></text>
+<text class="l" style="animation-delay:1.0s" x="28" y="118" fill="#656d76">name<tspan x="118" fill="#b45309">: </tspan><tspan fill="#1f2328">Swayam Agrawal</tspan></text>
+<text class="l" style="animation-delay:1.4s" x="28" y="148" fill="#656d76">role<tspan x="118" fill="#b45309">: </tspan><tspan fill="#1f2328">B.Com student · finance &amp; management</tspan></text>
+<text class="l" style="animation-delay:1.7s" x="28" y="178" fill="#656d76">college<tspan x="118" fill="#b45309">: </tspan><tspan fill="#1f2328">Indira College of Commerce and Science, Pune</tspan></text>
+<text class="l" style="animation-delay:2.1s" x="28" y="208" fill="#656d76">cma<tspan x="118" fill="#b45309">: </tspan><tspan fill="#1f2328">Foundation qualified · 276/400 · all 4 exemptions</tspan></text>
+<text class="l" style="animation-delay:2.4s" x="28" y="238" fill="#656d76">sgpa<tspan x="118" fill="#b45309">: </tspan><tspan fill="#1f2328">9.27</tspan></text>
+<text class="l" style="animation-delay:2.8s" x="28" y="268" fill="#656d76">status<tspan x="118" fill="#b45309">: </tspan><tspan fill="#1f2328">learning to code, vibe first</tspan></text>
+<text class="l" style="animation-delay:3.1s" x="28" y="302" fill="#1a7f37">$ <tspan class="c" fill="#b45309">█</tspan></text>
 </svg>

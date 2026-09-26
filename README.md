@@ -9,18 +9,18 @@
 <br>
 
 <a href="https://github.com/swayamagrawal17-coder">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Swayam+Agrawal+-+B.Com+Student+%26+CMA+Foundation+Qualifier;Finance+%2F+Analytics+%2F+Management;Learning+to+code%2C+one+vibe+at+a+time" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=F0B429&center=true&vCenter=true&width=880&lines=Swayam+Agrawal+-+B.Com+Student+%26+CMA+Foundation+Qualifier;Finance+%2F+Analytics+%2F+Management;Learning+to+code%2C+one+vibe+at+a+time" alt="typing banner">
 </a>
 
 <br>
 
 <a href="https://linkedin.com/in/swayam-agrawal-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="mailto:swayamagrawal17@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=aa9bef" alt="Email"></a>&nbsp;&nbsp;
-<a href="https://swayam-agrawal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=aa9bef" alt="Portfolio"></a>
+<a href="mailto:swayamagrawal17@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f0b429" alt="Email"></a>&nbsp;&nbsp;
+<a href="https://swayam-agrawal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=f0b429" alt="Portfolio"></a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=swayamagrawal17-coder&style=flat&color=aa9bef&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=swayamagrawal17-coder&style=flat&color=f0b429&label=profile+views" alt="profile views">
 
 </div>
 

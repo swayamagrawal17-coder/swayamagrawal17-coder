@@ -15,9 +15,9 @@ FONT = "'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace"
 
 THEMES = {
     "dark": dict(bg="#0d1117", border="#30363d", text="#e6edf3", muted="#8b949e",
-                 accent="#aa9bef", grid="#30363d", green="#7ee787"),
+                 accent="#f0b429", grid="#30363d", green="#7ee787"),
     "light": dict(bg="#ffffff", border="#d0d7de", text="#1f2328", muted="#656d76",
-                  accent="#6e56cf", grid="#d0d7de", green="#1a7f37"),
+                  accent="#b45309", grid="#d0d7de", green="#1a7f37"),
 }
 
 

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" width="520" height="420" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="12">
-<text x="260" y="26" text-anchor="middle" fill="#6e56cf" font-size="14" font-weight="600">management &amp; research</text>
+<text x="260" y="26" text-anchor="middle" fill="#b45309" font-size="14" font-weight="600">management &amp; research</text>
 <polygon points="260.0,187.0 279.9,198.5 279.9,221.5 260.0,233.0 240.1,221.5 240.1,198.5" fill="none" stroke="#d0d7de" stroke-width="1"/>
 <polygon points="260.0,164.0 299.8,187.0 299.8,233.0 260.0,256.0 220.2,233.0 220.2,187.0" fill="none" stroke="#d0d7de" stroke-width="1"/>
 <polygon points="260.0,141.0 319.8,175.5 319.8,244.5 260.0,279.0 200.2,244.5 200.2,175.5" fill="none" stroke="#d0d7de" stroke-width="1"/>
@@ -11,13 +11,13 @@
 <line x1="260" y1="210" x2="260.0" y2="325.0" stroke="#d0d7de" stroke-width="1"/>
 <line x1="260" y1="210" x2="160.4" y2="267.5" stroke="#d0d7de" stroke-width="1"/>
 <line x1="260" y1="210" x2="160.4" y2="152.5" stroke="#d0d7de" stroke-width="1"/>
-<polygon points="260.0,129.5 329.7,169.8 319.8,244.5 260.0,302.0 180.3,256.0 210.2,181.2" fill="#6e56cf" fill-opacity="0.25" stroke="#6e56cf" stroke-width="2"/>
-<circle cx="260.0" cy="129.5" r="3.5" fill="#6e56cf"/>
-<circle cx="329.7" cy="169.8" r="3.5" fill="#6e56cf"/>
-<circle cx="319.8" cy="244.5" r="3.5" fill="#6e56cf"/>
-<circle cx="260.0" cy="302.0" r="3.5" fill="#6e56cf"/>
-<circle cx="180.3" cy="256.0" r="3.5" fill="#6e56cf"/>
-<circle cx="210.2" cy="181.2" r="3.5" fill="#6e56cf"/>
+<polygon points="260.0,118.0 339.7,164.0 329.7,250.2 260.0,313.5 170.4,261.8 190.3,169.8" fill="#b45309" fill-opacity="0.25" stroke="#b45309" stroke-width="2"/>
+<circle cx="260.0" cy="118.0" r="3.5" fill="#b45309"/>
+<circle cx="339.7" cy="164.0" r="3.5" fill="#b45309"/>
+<circle cx="329.7" cy="250.2" r="3.5" fill="#b45309"/>
+<circle cx="260.0" cy="313.5" r="3.5" fill="#b45309"/>
+<circle cx="170.4" cy="261.8" r="3.5" fill="#b45309"/>
+<circle cx="190.3" cy="169.8" r="3.5" fill="#b45309"/>
 <text x="260.0" y="76.0" text-anchor="middle" fill="#1f2328">Project Planning</text>
 <text x="379.5" y="145.0" text-anchor="start" fill="#1f2328">Market Research</text>
 <text x="379.5" y="283.0" text-anchor="start" fill="#1f2328">CRM Analysis</text>

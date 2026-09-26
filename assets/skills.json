@@ -3,30 +3,78 @@
     "finance": {
       "title": "finance & analytics",
       "axes": [
-        ["Financial Modeling", 6],
-        ["Cost Accounting", 7],
-        ["Quant Analysis", 6],
-        ["MS Excel", 7],
-        ["SQL", 4],
-        ["Python", 3]
+        [
+          "Financial Modeling",
+          8
+        ],
+        [
+          "Cost Accounting",
+          8
+        ],
+        [
+          "Quant Analysis",
+          7
+        ],
+        [
+          "MS Excel",
+          8
+        ],
+        [
+          "IFRS / Ind AS",
+          7
+        ],
+        [
+          "Data Analysis",
+          7
+        ]
       ]
     },
     "management": {
       "title": "management & research",
       "axes": [
-        ["Project Planning", 7],
-        ["Market Research", 7],
-        ["CRM Analysis", 6],
-        ["Communication", 8],
-        ["Team Coordination", 8],
-        ["Risk Tracking", 5]
+        [
+          "Project Planning",
+          8
+        ],
+        [
+          "Market Research",
+          8
+        ],
+        [
+          "CRM Analysis",
+          7
+        ],
+        [
+          "Communication",
+          9
+        ],
+        [
+          "Team Coordination",
+          9
+        ],
+        [
+          "Risk Tracking",
+          7
+        ]
       ]
     }
   },
   "numbers": [
-    ["9.27", "SGPA"],
-    ["276/400", "CMA Foundation"],
-    ["100+", "students in placement drives"],
-    ["51", "vendors surveyed"]
+    [
+      "9.27",
+      "SGPA"
+    ],
+    [
+      "276/400",
+      "CMA Foundation"
+    ],
+    [
+      "100+",
+      "students in placement drives"
+    ],
+    [
+      "51",
+      "vendors surveyed"
+    ]
   ]
 }
