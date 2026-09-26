@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 330" width="880" height="330" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="15">
+<style>.l{animation:s .01s backwards}@keyframes s{from{opacity:0}}.c{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
+<rect x="1" y="1" width="878" height="328" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<line x1="1" y1="40" x2="879" y2="40" stroke="#30363d" stroke-width="2"/>
+<circle cx="26" cy="21" r="6" fill="#ff5f56"/>
+<circle cx="48" cy="21" r="6" fill="#ffbd2e"/>
+<circle cx="70" cy="21" r="6" fill="#27c93f"/>
+<text x="440" y="26" text-anchor="middle" fill="#8b949e" font-size="13">profile.sh --live</text>
+<text class="l" style="animation-delay:.3s" x="28" y="80" fill="#7ee787">$ <tspan fill="#e6edf3">./profile.sh --live</tspan></text>
+<text class="l" style="animation-delay:1.0s" x="28" y="118" fill="#8b949e">name<tspan x="118" fill="#aa9bef">: </tspan><tspan fill="#e6edf3">Swayam Agrawal</tspan></text>
+<text class="l" style="animation-delay:1.4s" x="28" y="148" fill="#8b949e">role<tspan x="118" fill="#aa9bef">: </tspan><tspan fill="#e6edf3">B.Com student · finance &amp; management</tspan></text>
+<text class="l" style="animation-delay:1.7s" x="28" y="178" fill="#8b949e">college<tspan x="118" fill="#aa9bef">: </tspan><tspan fill="#e6edf3">Indira College of Commerce and Science, Pune</tspan></text>
+<text class="l" style="animation-delay:2.1s" x="28" y="208" fill="#8b949e">cma<tspan x="118" fill="#aa9bef">: </tspan><tspan fill="#e6edf3">Foundation qualified · 276/400 · all 4 exemptions</tspan></text>
+<text class="l" style="animation-delay:2.4s" x="28" y="238" fill="#8b949e">sgpa<tspan x="118" fill="#aa9bef">: </tspan><tspan fill="#e6edf3">9.27</tspan></text>
+<text class="l" style="animation-delay:2.8s" x="28" y="268" fill="#8b949e">status<tspan x="118" fill="#aa9bef">: </tspan><tspan fill="#e6edf3">learning to code, vibe first</tspan></text>
+<text class="l" style="animation-delay:3.1s" x="28" y="302" fill="#7ee787">$ <tspan class="c" fill="#aa9bef">█</tspan></text>
+</svg>

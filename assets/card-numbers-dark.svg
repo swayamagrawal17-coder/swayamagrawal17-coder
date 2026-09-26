@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" width="480" height="220" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace">
+<rect x="1" y="1" width="478" height="218" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<text x="24" y="34" fill="#aa9bef" font-size="14" font-weight="600">numbers.json</text>
+<text x="24" y="88" fill="#e6edf3" font-size="28" font-weight="700">9.27</text>
+<text x="24" y="110" fill="#8b949e" font-size="12">SGPA</text>
+<text x="250" y="88" fill="#e6edf3" font-size="28" font-weight="700">276/400</text>
+<text x="250" y="110" fill="#8b949e" font-size="12">CMA Foundation</text>
+<text x="24" y="156" fill="#e6edf3" font-size="28" font-weight="700">100+</text>
+<text x="24" y="178" fill="#8b949e" font-size="12">students in placement drives</text>
+<text x="250" y="156" fill="#e6edf3" font-size="28" font-weight="700">51</text>
+<text x="250" y="178" fill="#8b949e" font-size="12">vendors surveyed</text>
+</svg>
