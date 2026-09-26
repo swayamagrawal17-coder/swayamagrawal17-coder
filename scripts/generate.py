@@ -2,6 +2,7 @@
 
 Run from the repo root:  python3 scripts/generate.py
 """
+import base64
 import json
 import math
 from pathlib import Path
@@ -45,6 +46,12 @@ def banner(t):
         y += 30
         delay += 0.35
     out.append(f'<text class="l" style="animation-delay:{delay:.1f}s" x="28" y="{y + 4}" fill="{t["green"]}">$ <tspan class="c" fill="{t["accent"]}">█</tspan></text>')
+    portrait = ASSETS / "portrait.png"
+    if portrait.exists():
+        b64 = base64.b64encode(portrait.read_bytes()).decode()
+        if t["bg"] != THEMES["dark"]["bg"]:  # light theme: seat the dots on a dark card
+            out.append(f'<rect x="636" y="48" width="228" height="272" rx="8" fill="{THEMES["dark"]["bg"]}"/>')
+        out.append(f'<image x="640" y="46" width="224" height="280" href="data:image/png;base64,{b64}"/>')
     out.append("</svg>")
     return "\n".join(out)
 
